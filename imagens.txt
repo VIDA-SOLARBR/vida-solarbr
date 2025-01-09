@@ -1,0 +1,1 @@
+﻿<img src="images/solar-panel.jpg" alt="Painel Solar de Alta Eficiência">
